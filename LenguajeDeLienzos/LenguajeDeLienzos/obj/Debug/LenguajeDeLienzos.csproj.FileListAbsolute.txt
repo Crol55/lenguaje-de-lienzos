@@ -1,0 +1,15 @@
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\bin\Debug\LenguajeDeLienzos.exe.config
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\obj\Debug\LenguajeDeLienzos.csprojResolveAssemblyReference.cache
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\obj\Debug\LenguajeDeLienzos.Form1.resources
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\obj\Debug\LenguajeDeLienzos.Properties.Resources.resources
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\obj\Debug\LenguajeDeLienzos.csproj.GenerateResource.Cache
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\bin\Debug\LenguajeDeLienzos.exe
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\bin\Debug\LenguajeDeLienzos.pdb
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\bin\Debug\Irony.dll
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\bin\Debug\Irony.Interpreter.dll
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\bin\Debug\Irony.pdb
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\bin\Debug\Irony.Interpreter.pdb
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\obj\Debug\LenguajeDeLienzos.exe
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\obj\Debug\LenguajeDeLienzos.pdb
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\obj\Debug\Interop.WINGRAPHVIZLib.dll
+C:\Users\carlo\onedrive\documentos\visual studio 2015\Projects\LenguajeDeLienzos\LenguajeDeLienzos\obj\Debug\LenguajeDeLienzos.csproj.ResolveComReference.cache

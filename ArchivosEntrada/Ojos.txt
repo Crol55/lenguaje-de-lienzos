@@ -1,0 +1,6 @@
+publico Lienzo Ojos¿ 
+ojos(entero x, entero y)¿
+        Pintar_OR(x+75, y-75, "#FFFFFF",25, 50, 'o')$ 
+        Pintar_OR(x-75, y-75, "#FFFFFF",25, 50, 'o')$ 
+    ?
+?
